@@ -2,7 +2,7 @@
 | Team Member            | Github ID   | Journal  | Scrum Board    | Commits   | Profile   |
 | ------------------- | ----------------- | ----------------- | ------------ | ------------ | ------------|
 | Flora Yuan |  | [journal]() | [scrum board]() | [commits]() | [profile]()
-| Calvin Cheah |  | [journal]() | [scrum board]() | [commits]() | [profile]()
+| Calvin Cheah | QwikSP | [journal]() | [scrum board]() | [commits]() | [profile]()
 | Crystal Widjaja | crystalwidjaja | [journal]() | [scrum board]() | [commits]() | [profile](https://github.com/crystalwidjaja)
 | Kira Liao |  | [journal]() | [scrum board]() | [commits]() | [profile]()
 | Maggie Killada |  | [journal]() | [scrum board]() | [commits]() | [profile]()
